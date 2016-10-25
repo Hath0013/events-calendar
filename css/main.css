@@ -1,8 +1,84 @@
 html {
   box-sizing: border-box;
-  font-family: Merriweather;
+  font-family: Merriweather, serif;
 }
 
 *, *::before, *::after {
   box-sizing: inherit;
+}
+
+table {
+  border: solid 1.5px #ccc;
+}
+
+th, td {
+  border: solid 1.5px #ccc;
+}
+
+td {
+  width: 14%;
+  height: 190px;
+}
+
+.event-3 {
+  background-color: #f2f2f2;
+  border: solid 1px #666;
+  border-radius: 8px;
+  color: #333;
+}
+
+.event-11-a {
+  background-color: #f2bcbc;
+  border: solid 1px #b92828;
+  border-radius: 8px;
+  color: #991919;
+}
+
+.event-11-b {
+  background-color: #f2f2f2;
+  border: solid 1px #666;
+  border-radius: 8px;
+  color: #333;
+}
+
+.event-15-a {
+  background-color: #d1e0bf;
+  border: solid 1px #6b7e54;
+  border-radius: 8px;
+  color: #51603f;
+}
+
+.event-15-b {
+  background-color: #d1e0bf;
+  border: solid 1px #6b7e54;
+  border-radius: 8px;
+  color: #51603f;
+}
+
+.event-21 {
+  background-color: #f2f2f2;
+  border: solid 1px #666;
+  border-radius: 8px;
+  color: #333;
+}
+
+.event-22 {
+  background-color: #d2d6f0;
+  border: solid 1px #1d38da;
+  border-radius: 8px;
+  color: #38448e;
+}
+
+.event-23 {
+  background-color: #d2d6f0;
+  border: solid 1px #1d38da;
+  border-radius: 8px;
+  color: #38448e;
+}
+
+.event-26 {
+  background-color: #f2f2f2;
+  border: solid 1px #666;
+  border-radius: 8px;
+  color: #333;
 }
